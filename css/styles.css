@@ -1,0 +1,12 @@
+#info {
+  display: none;
+}
+
+#left {
+  float: left;
+}
+
+#info {
+  float: right;
+
+}
